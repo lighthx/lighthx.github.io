@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          骚老师，你这狗日的
         </a>
       </header>
     </div>
